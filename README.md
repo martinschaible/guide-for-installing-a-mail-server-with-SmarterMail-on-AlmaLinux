@@ -9,6 +9,7 @@ Finally, migrating a SmarterMail server from Windows is also discussed.
 You can jump directly to the chapter that interests you here:
 
 :link: [Preparing the server](../../wiki/Preparing-the-server)<br>
+:link: [Installation nginx](../../wiki/Installation-nginx)<br>
 :link: [Installation SmarterMail](../../wiki/Installation-SmarterMail)
 
 
