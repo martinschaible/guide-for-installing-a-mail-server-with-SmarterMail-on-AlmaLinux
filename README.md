@@ -8,7 +8,8 @@ Finally, migrating a SmarterMail server from Windows is also discussed.
 
 You can jump directly to the chapter that interests you here:
 
-:link: [Click here to go to the Wiki](../../wiki)
+:link: [Preparing the server](../../wiki/Preparing-the-server)<br>
+:link: [Installation SmarterMail](../../wiki/Installation-SmarterMail)
 
 
 I hope that the guide is helpful and you benefit from it and maybe you get some good ideas for running SmarterMail.
