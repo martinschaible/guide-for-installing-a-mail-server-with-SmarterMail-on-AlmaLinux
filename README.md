@@ -12,12 +12,12 @@ You can jump directly to the chapter that interests you here:
 :link: [Installation nginx](../../wiki/Installation-nginx)<br>
 
 :link: [Configuration Proxy for SmarterMail](../../wiki/Configuration-Proxy-for-SmarterMail)<br>
-:link: [Installation SmarterMail](../../wiki/Installation-SmarterMail)
+:link: [Installation SmarterMail](../../wiki/Installation-SmarterMail)<br>
 :link: [Migration from Windows](../../wiki/migration-from-windows)<br>
 :link: [Updating or Removing SmarterMail](../../wiki/updating-or-removing-smartermail)<br>
 
 :link: [Configuration Proxy for Rspamd](../../wiki/Configuration-Proxy-for-Rspamd)<br>
-:link: [Installation Rspamd](../../wiki/Installation-Rspamd)
+:link: [Installation Rspamd](../../wiki/Installation-Rspamd)<br>
 
 :point_right: It makes sense to install the mail server exactly in the order of the articles.<br>
 
