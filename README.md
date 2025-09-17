@@ -1,8 +1,6 @@
-## The complete guide for installing a mail server with SmarterMail on AlmaLinux
+## Guide for installing a mail server with SmarterMail on AlmaLinux
 
-This guide should allow you to install a mail server with **SmarterMail** on **AlmaLinux**.
-
-The guide also covers configuring **proxies** with nginx and installing and configuring **Rspamd**.
+This guide should allow you to install a mail server with **SmarterMail** on **AlmaLinux 10**. Italso covers configuring **proxies** with nginx and installing and configuring **Rspamd**.
 
 Finally, migrating a SmarterMail server from Windows is also discussed.
 
