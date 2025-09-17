@@ -6,22 +6,8 @@ Finally, migrating a SmarterMail server from Windows is also discussed.
 
 :link: [Click here to go to the Wiki](../../wiki)
 
-You can jump directly to the chapter that interests you here:
-
-:link: [Preparing the server](../../wiki/Preparing-the-server)<br>
-:link: [Installation nginx](../../wiki/Installation-nginx)<br>
-
-:link: [Configuration Proxy for SmarterMail](../../wiki/Configuration-Proxy-for-SmarterMail)<br>
-:link: [Installation SmarterMail](../../wiki/Installation-SmarterMail)<br>
-:link: [Migration from Windows](../../wiki/migration-from-windows)<br>
-:link: [Updating or Removing SmarterMail](../../wiki/updating-or-removing-smartermail)<br>
-
-:link: [Configuration Proxy for Rspamd](../../wiki/Configuration-Proxy-for-Rspamd)<br>
-:link: [Installation Rspamd](../../wiki/Installation-Rspamd)<br>
-
-:point_right: It makes sense to install the mail server exactly in the order of the articles.<br>
-
-I hope that the guide is helpful and you benefit from it. Maybe you get some good ideas for running SmarterMail.
+* I hope that the guide is helpful and you benefit from it. Maybe you get some good ideas for running SmarterMail.
+* This documentation supplements the SmarterTools manual and does not replace it.
 
 :collision: Did you find a bug or my English is too poor? Then please open an issue.
 
