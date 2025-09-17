@@ -1,4 +1,4 @@
-## The complete guide for installing SmarterMail on AlmaLinux
+## The complete guide for installing a mail server with SmarterMail on AlmaLinux
 
 This guide should allow you to install a mail server with **SmarterMail** on **AlmaLinux**.
 
