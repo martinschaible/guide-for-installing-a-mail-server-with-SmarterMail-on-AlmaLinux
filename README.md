@@ -14,8 +14,9 @@ You can jump directly to the chapter that interests you here:
 
 :link: [Installation SmarterMail](../../wiki/Installation-SmarterMail)
 
-:point_right: It makes sense to install the mail server exactly in the order of the articles.
-I hope that the guide is helpful and you benefit from it and maybe you get some good ideas for running SmarterMail.
+:point_right: It makes sense to install the mail server exactly in the order of the articles.<br>
+
+I hope that the guide is helpful and you benefit from it. Maybe you get some good ideas for running SmarterMail.
 
 :collision: Did you find a bug or my English is too poor? Then please open an issue.
 
