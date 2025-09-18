@@ -15,9 +15,10 @@ This guide will show you how to set up a server with SmarterMail on AlmaLinux 10
 
 I'll also describe how to install and configure **Rspamd** on the same server.
 
-Of course, I've obtained a lot of information from various SmarterTools sources and used it here.<br>
-:collision: This guide doesn't replace the SmarterTools articles, but rather complements them. The idea was to create a chronological and complete guide.
+Of course, I've obtained a lot of information from various SmarterTools sources and used it here. The idea was to create a chronological and complete guide.<br>
+:collision: This guide doesn't replace the SmarterTools articles, but rather complements them.<br>
 
+And now it starts:
 
 :link: [Click here to go to the Wiki](../../wiki)
 
