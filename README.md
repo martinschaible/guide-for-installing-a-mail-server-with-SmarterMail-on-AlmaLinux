@@ -8,12 +8,12 @@ My reasons are:
 * Updating Windows is annoying. It takes a long time and usually requires a reboot. Linux is significantly faster and easier with updates.
 * Microsoft is also annoying.
 
-This guide will show you how to set up a server with SmarterMail on AlmaLinux 10. We'll also cover configuration and provide information on these topics:
+This guide will show you how to set up a server with **SmarterMail** on **AlmaLinux 10**. We'll also cover configuration and provide information on these topics:
 * nginx proxy for webmail.
 * Which RBLs and URIBLs make sense.
 * Migrating data and configuration from the Windows server.
 
-I'll also describe how to install and configure **Rspamd** on the same server.
+I'll also describe how to install and configure **Rspamd** on the same server:
 
 Of course, I've obtained a lot of information from various SmarterTools sources and used it here. The idea was to create a chronological and complete guide.<br><br>
 :collision: This guide doesn't replace the SmarterTools articles, but rather complements them.<br>
