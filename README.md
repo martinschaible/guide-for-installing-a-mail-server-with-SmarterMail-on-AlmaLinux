@@ -13,10 +13,12 @@ This guide will show you how to set up a server with **SmarterMail** on **AlmaLi
 * Which RBLs and URIBLs make sense.
 * Migrating data and configuration from the Windows server.
 
-I'll also describe how to install and configure **Rspamd** on the same server:
+I'll also describe how to install and configure **Rspamd** on the same or remote server:
+* nginx proxy for Rspamd.
+* Configuration to optimally use Rspamd with SmarterMail.
 
 Of course, I've obtained a lot of information from various SmarterTools sources and used it here. The idea was to create a chronological and complete guide.<br><br>
-:collision: This guide doesn't replace the SmarterTools articles, but rather complements them.<br>
+:collision: This guide doesn't replace the SmarterTools articles, but rather complements them. The same applies to Rspamd.<br>
 
 And now it starts:
 
